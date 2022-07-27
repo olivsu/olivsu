@@ -1,8 +1,11 @@
 ### Hi there 👋 I'm Suane
 
-                              Development and System Analysis Student
-                                      Front-End Dveloper 🖥️
+                                                   Development and System Analysis Student
+                                                           Front-End Dveloper 🖥️
+
 - 😁 Pronouns: she/her
+
+
 <div align="center">
   <a href="https://github.com/olivsu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olivsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
