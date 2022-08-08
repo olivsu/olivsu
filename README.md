@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Suane
 
-                                                  Development and System Analysis Student
-                                                          Front-End Dveloper 🖥️
+                                               Development and System Analysis Student
+                                                       Front-End Dveloper 🖥️
 
 - 😁 Pronouns: she/her
 
